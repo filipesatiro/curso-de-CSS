@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+
+    background-color: gray;
+}
+h1 {
+    color: whitesmoke;
+    font-size: 50px;
+}
+h2 {
+    color: rgba(155, 10, 10, 0.589);
+    font-size: 25px;
+}
