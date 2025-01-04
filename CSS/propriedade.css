@@ -1,0 +1,17 @@
+@charset "UFT-8";
+
+body {
+    background-color: skyblue;
+}
+h1 {
+    ;
+    color: rgba(20, 197, 58, 0.904);
+}
+p {
+    color: rgba(16, 19, 214, 0.863);
+}
+.exemplo-back {
+    height: 300px;
+    background: gray url(../icones/background.jpg) no-repeat center;
+    background-size: cover;
+}
