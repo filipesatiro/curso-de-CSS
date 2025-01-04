@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+ * {
+    padding: 20px;
+}
+h1, p {
+    color: red;
+    text-align: center;
+}
+#teste {
+    text-align: center;
+    color: black;
+}
