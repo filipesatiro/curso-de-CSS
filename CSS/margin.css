@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+h1 {
+    text-align: center;
+    margin: 30px 50px 50px 50px;
+}
+p {
+    margin-bottom: 40px;
+    margin-left: 15px;
+}
