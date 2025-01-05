@@ -1,0 +1,8 @@
+@charset "UFT-8";
+
+.ex1 {
+    width: 800px;
+}
+.ex2 {
+    max-width: 800px;
+}
