@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    overflow-x: hidden;
+}
+.exemplo {
+    background: rgba(33, 33, 39, 0.705);
+    color: white;
+    height: 250px;
+    width: 1200px;
+    overflow: auto;
+}
