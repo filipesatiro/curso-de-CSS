@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.img1:hover{
+    opacity: 0.9;
+}
+.img2:hover {
+    opacity: 0.5;
+}
+.img3 {
+    opacity: 1;
+}
+a.botao {
+    padding: 8px 50px 8px 50px;
+    background: green;
+    color: white;
+    border-radius: 35px;
+    text-decoration: none;
+}
+a.botao:hover {
+    opacity: 0.9;
+}
+.transparente {
+    margin-top: 50px 10px 50px 10px;
+    background: blue;
+    color: white;
+    padding: 40px;
+    opacity: 0.5;
+}
