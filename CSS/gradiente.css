@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(rgb(20, 5, 5),rgba(53, 0, 0, 0.699),white);
+}
+#gradiente {
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-image: radial-gradient(red, blue 10%, black, rgba(173, 20, 20, 0.411) 50% );
+
+}
